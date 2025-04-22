@@ -63,8 +63,8 @@ This project demonstrates an **IoT-based smart home automation system** using th
 
 ## 👨‍💻 Author
 
-- **Shivam Ahuja**
-- **Rohit Jaiswal**  
+- **Shivam Ahuja (23MCC20006)**
+- **Rohit Jaiswal (23MCC20024)**  
 [MCA | Cloud Computing & DevOps] - Chandigarh University  
 [GitHub](https://github.com/shivamgahuja1999)
 
